@@ -1,4 +1,3 @@
-# DeFi-Saving-Vault-dApp-
 # DeFi Saving Vault
 
 ## Overview
@@ -20,13 +19,13 @@ This project uses blockchain technology to create a trustless savings vault.
 - Solidity
 - Ethereum
 - Hardhat / Remix
-- (Optional) React.js frontend
+- React.js frontend
 
 ## Screenshots
-(Add images here)
+
 
 ## Smart Contract
-(Add deployed contract address)
+
 
 ## Testing
 Explain how to test using Remix / Hardhat
